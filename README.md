@@ -58,8 +58,6 @@ yarn start
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [React](https://pt-br.reactjs.org/) - O framework JS usado
 * [Material UI](https://mui.com/pt/) - Biblioteca de componentes React 
 * [Sass](https://rometools.github.io/rome/) - linguagem de folhas de estilo
@@ -72,11 +70,11 @@ Ainda não temos um controle de versão. este é apenas um protótipo.
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+Todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **desenvolvedor** - *Desenvolvimento Front-End* - [Ricardo Dias](https://github.com/ricardozy7)
 * **desenvolvedor** - *Desenvolvimento Back-End* - ****
 * **Design** - *Design* - ****
 
 
-⌨️ com ❤️ por [Ricardo Dias](https://github.com/ricardoz) 😊
+⌨️ com ❤️ por [Ricardo Dias](https://github.com/Ricardozy7) 😊
