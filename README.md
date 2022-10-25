@@ -1,2 +1,5 @@
-# One-Edu
-Projeto one education é focado principalmente para professores e alunos
+ONE-CI
+
+<p align="center">
+  <img src="https://github.com/oneci-education/app-dashboard/blob/main/src/assets/images/login.png" />
+</p>

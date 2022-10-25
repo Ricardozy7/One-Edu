@@ -1,0 +1,177 @@
+.ck.ck-editor__main >.ck-editor__editable {
+     border-radius: 3px;
+     box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
+     backdrop-filter: blur(5px);
+    border-radius: 0;
+    color: black;
+    border: 0px solid transparent
+}
+
+.ck.ck-toolbar {
+    border-radius: 5px !important;
+    box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
+    backdrop-filter: blur(5px);
+    color: black;
+    border: 0px solid transparent;
+}
+
+.ck.ck-icon :not([fill]) {
+    fill: black;
+}
+.ck-rounded-corners .ck.ck-editor__editable:not(.ck-editor__nested-editable), .ck.ck-editor__editable.ck-rounded-corners:not(.ck-editor__nested-editable) {
+    background-color: #fff;
+    margin: 1px 0;
+    border-radius: 0 !important;
+    border-radius: 5px !important;
+    color: black;
+    min-height: 50px;
+}
+.ck-reset_all :not(.ck-reset_all-excluded *){
+    border-radius: 3px;
+    box-shadow: 0 0 0 rgb(0 0 0 / 10%) !important;
+    -webkit-backdrop-filter: blur(0px) !important;
+    backdrop-filter: blur(0px) !important;
+}
+
+.ck-rounded-corners .ck.ck-editor__editable:not(.ck-editor__nested-editable), .ck.ck-editor__editable.ck-rounded-corners:not(.ck-editor__nested-editable):focus{
+    border-bottom: 1px solid #00F0FF;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+
+}
+
+.ck.ck-dropdown__panel {
+    background: #15133f;
+    border: 5px;
+    bottom: 0;
+    min-width: 100%;
+}
+
+.ck.ck-button.ck-on, a.ck.ck-button.ck-on {
+    background: #00F0FF;
+}
+
+
+
+.ck.ck-collapsible >.ck.ck-button {
+    color: white;
+}
+
+
+.ck.ck-input {
+    background: #302d7a !important;
+    border: 0px solid;
+    margin-top: 10px;
+    color: white;
+}
+
+.ck.ck-labeled-field-view>.ck.ck-labeled-field-view__input-wrapper>.ck.ck-label {
+    background: #15133f !important;
+    color: white;
+    padding: 5px;
+
+}
+
+.ck.ck-button.ck-button_with-text .ck-button__label, a.ck.ck-button.ck-button_with-text .ck-button__label {
+    color: white;
+}
+
+.ck.ck-button.ck-switchbutton .ck-button__toggle .ck-button__toggle__inner {
+    background: #5CD3E5;
+    border-radius: 10px !important;
+}
+
+.ck.ck-button.ck-switchbutton .ck-button__toggle {
+    background: transparent !important;
+    border-radius: 10px !important;
+    border: 1px solid white;
+}
+
+.ck.ck-button.ck-switchbutton:focus{
+    box-shadow: 0 0 0 0 !important;
+    outline: 0 !important;
+    outline-offset: 0px;
+}
+
+.ck-reset_all :not(.ck-reset_all-excluded *){
+    border-radius: 3px;
+    box-shadow: 0 4px 30px rgb(0 0 0 / 10%);
+    backdrop-filter: blur(5px);
+}
+
+.ck-rounded-corners .ck.ck-editor__editable:not(.ck-editor__nested-editable), .ck.ck-editor__editable.ck-rounded-corners:not(.ck-editor__nested-editable) {
+    background-color: rgb(207, 205, 205);
+    margin: 15px 0;
+    border-radius: 0 !important;
+    border-radius: 5px !important;
+    color: black;
+    min-height: 50px;
+}
+
+
+.editor-class{
+    height: 500px;
+ }
+ 
+ .demo-toolbar-custom{
+    padding: 6px 5px 0;
+    border-radius: 2px;
+    border: 1px solid #F1F1F1;
+    display: flex;
+    justify-content: flex-start;
+    background: #03428A80 !important;
+    flex-wrap: wrap;
+    font-size: 15px;
+    margin-bottom: 5px;
+    -webkit-user-select: none;
+    user-select: none;
+ }
+ .rdw-editor-wrapper{
+    min-height: 150px;
+ }
+ .rdw-dropdown-wrapper{
+    background-color: #03428A85!important;
+    border: 0px solid !important;
+    padding: 0px !important;
+    color: white !important;
+ }
+ 
+ .rdw-dropdown-wrapper:hover{
+    padding: 0px !important;
+    border: 0px solid !important;
+ 
+ 
+ }
+
+ .demo-editor-custom{
+    background-color: rgb(224, 224, 224) !important;
+ }
+ 
+ .rdw-dropdown-optionwrapper{
+    background-color: #03428A85 !important;
+    border: 0px solid !important;
+ }
+ .rdw-dropdownoption-default:hover{
+    background-color: #03428A50 !important;
+ }
+ 
+ .rdw-option-wrapper{
+    background-color: #03428A85!important;
+    border: 0px solid !important;
+ }
+ 
+ .rdw-dropdownoption-active {
+    background-color: #03428A95 !important;
+ 
+ }
+ .tui-image-editor-header-logo{
+    display: none !important;
+    width: 0 !important;
+    height: 0!important;
+ }
+
+ .react-contexify {
+
+    background-color: #03428A95 !important;
+ }

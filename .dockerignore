@@ -1,0 +1,5 @@
+node-modules
+node-modules/*
+build
+build/*
+deploy.sh

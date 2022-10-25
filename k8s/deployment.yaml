@@ -1,0 +1,37 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: edu-app
+  namespace: education
+  labels:
+    version: 0.0.1
+    app: edu-app-app
+
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      name: edu-app-pod
+      app: edu-app-app
+
+  template:
+    metadata:
+      name: edu-app-pod
+      labels:
+        name: edu-app-pod
+        app: edu-app-app
+
+    spec:
+        terminationGracePeriodSeconds: 30
+        containers:
+          - name: edu-app
+            image: oneci/edu-app:latest
+            imagePullPolicy: Always
+
+            ports:
+            - name: port80
+              containerPort: 80
+
+        imagePullSecrets:
+        - name: onedh

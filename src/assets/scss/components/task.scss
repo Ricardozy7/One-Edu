@@ -1,0 +1,68 @@
+.task-bar-component {
+    position: relative;
+    transform: rotate(-0.01deg);
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background: rgba(88, 99, 244, 0.1);
+    border-radius: 3px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    justify-content: space-between;
+    // margin: 10px;
+}
+
+select {
+    border: none;
+    color: #fff;
+    background-color: transparent;
+    margin-inline: 10px;
+}
+
+select:focus {
+    border: none;
+}
+
+#appearance-select {
+    -webkit-appearance: none;
+    /* Remove estilo padrão do Chrome */
+    -moz-appearance: none;
+    /* Remove estilo padrão do FireFox */
+    appearance: none;
+    /* Remove estilo padrão do FireFox*/
+    background: url(http://www.webcis.com.br/images/imagens-noticias/select/ico-seta-appearance.gif) no-repeat transparent;
+    /* Imagem de fundo (Seta) */
+    background-position: 218px center;
+    /*Posição da imagem do background*/
+    width: 250px;
+    /* Tamanho do select, maior que o tamanho da div "div-select" */
+    height: 30px;
+    /* Altura do select, importante para que tenha a mesma altura em todo os navegadores */
+    // border: 1px solid #ddd;
+}
+
+.tabs-task {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    white-space: nowrap;
+    overflow: auto;
+}
+
+.tabs-task::-webkit-scrollbar-track {
+    background-color: #100E37;
+}
+.tabs-task::-webkit-scrollbar {
+    // width: 6px;
+    height: 3px;
+    background: #100E37;
+}
+.tabs-task::-webkit-scrollbar-thumb {
+    background: #1E1B62;
+}
+.tabs-task::-webkit-scrollbar:hover {
+    // width: 6px;
+    height: 6px;
+}

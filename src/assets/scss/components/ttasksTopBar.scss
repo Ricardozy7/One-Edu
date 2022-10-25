@@ -1,0 +1,75 @@
+// .task-top-bar {
+//     position: fixed;
+//     background: #221F6050;
+//     mix-blend-mode: soft-light;
+//     box-shadow: 0px 8px 6px rgba(0, 0, 0, 0.04);
+//     border-radius: 3px;
+//     transform: rotate(-0.01deg);
+//     height: 55px;
+//     width: 95%;
+//     margin: 10px;
+//     z-index: 1;
+// }
+
+.task-top-bar2 {
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 3px;
+    transform: rotate(-0.01deg);
+    height: 55px;
+    align-items: center;
+    width: 95%;
+    margin: 10px;
+    z-index: 1;
+    background-color: #212363;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.068) 0px 15px 12px;
+}
+
+.new-task-project-bnt {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color: $btn-color-2;
+    width: 120px;
+    color: #fff;
+    margin-inline: 5px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+.task-top-bar2 .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 1;
+
+}
+
+.score-tasks {
+    background-color: transparent;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    padding: 7px;
+    max-width: 80px;
+    margin-inline: 10px;
+    text-align: center;
+    color: rgb(241, 241, 241);
+
+    ::-webkit-outer-spin-button:hover,
+    ::-webkit-inner-spin-button:hover {
+        -webkit-appearance: none !important;
+        margin: 0 !important;
+        opacity: 0  !important;
+    }
+}
+
+
+
+.top-bar-tasks-abas-area {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    overflow: hidden;
+    flex-wrap: nowrap;
+}

@@ -1,0 +1,18 @@
+apiVersion: v1
+kind: Service
+
+metadata:
+  name: edu-app
+  namespace: education
+
+spec:
+  ports:
+  - name: "80"
+    port: 80
+    targetPort: 80
+
+  selector:
+    name: edu-app-pod
+    app: edu-app-app
+
+  type: ClusterIP

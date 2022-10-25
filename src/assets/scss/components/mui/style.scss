@@ -1,0 +1,15 @@
+@import 'textField.scss';
+
+.MuiTypography-root{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.dark{
+    color: rgb(20, 20, 20) !important;
+}
+
+.MuiFormControlLabel-root > .MuiTypography-root{
+    color: rgb(20, 20, 20) !important;
+
+}

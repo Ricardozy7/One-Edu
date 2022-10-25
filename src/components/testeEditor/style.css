@@ -1,0 +1,79 @@
+.editor-class{
+    height: 500px;
+ }
+ .emo-editor-custom{
+   min-height: 100px;
+   background-color: #e0e0e0;
+ }
+ .demo-toolbar-custom{
+    padding: 6px 5px 0;
+    border-radius: 2px;
+    border: 1px solid #F1F1F1;
+    display: flex;
+    justify-content: flex-start;
+    background: #e0e0e0 !important;
+    flex-wrap: wrap;
+    font-size: 15px;
+    margin-bottom: 5px;
+    -webkit-user-select: none;
+    user-select: none;
+ }
+ .rdw-dropdown-wrapper{
+    background-color: #e0e0e0!important;
+    border: 0px solid !important;
+    padding: 0px !important;
+    color: black !important;
+ }
+ 
+ .rdw-dropdown-wrapper:hover{
+    padding: 0px !important;
+    border: 0px solid !important;
+ 
+ 
+ }
+ 
+ .rdw-dropdown-optionwrapper{
+    background-color: #e0e0e0 !important;
+    border: 0px solid !important;
+ }
+ .rdw-dropdownoption-default:hover{
+    background-color: #e0e0e0 !important;
+ }
+ 
+ .rdw-option-wrapper{
+    background-color: #e0e0e0!important;
+    border: 0px solid !important;
+ }
+ 
+ .rdw-dropdownoption-active {
+    background-color: #e0e0e0 !important;
+ 
+ }
+ .tui-image-editor-header-logo{
+    display: none !important;
+    width: 0 !important;
+    height: 0!important;
+ }
+ 
+ .dragged {
+    opacity: .5 !important;
+  }
+ 
+  .SortableList{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center
+  }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  .react-resizable-handle{
+    width: 0;
+    height:0;
+  }

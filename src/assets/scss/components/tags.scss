@@ -1,0 +1,102 @@
+.ReactTags__tags {
+    position: relative;
+  }
+  
+  .ReactTags__clearAll {
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    background: #f88d8d;
+    color: #fff;
+    border: none;
+  }
+  
+  /* Styles for the input */
+  .ReactTags__tagInput {
+    border-radius: 2px;
+    display: inline-block;
+    ::placeholder{
+        color: rgba(255, 255, 255, 0.418);
+        opacity: 1;
+    }
+  }
+  .ReactTags__tagInput input.ReactTags__tagInputField,
+  .ReactTags__tagInput input.ReactTags__tagInputField:focus {
+    height: 31px;
+    margin: 0;
+    font-size: 12px;
+    min-width: 150px;
+    background: #3B4892;
+    color: white;
+    border-radius: 15px;
+    margin-top: 10px;
+    font-family: 'Poppins', sans-serif;
+    padding: 5px;
+    padding-inline: 10px;
+    border: none;
+  }
+  
+  .ReactTags__editInput {
+    border-radius: 1px;
+  }
+  
+  .ReactTags__editTagInput {
+    display: inline-flex;
+  }
+  .ReactTags__selected{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  .ReactTags__selected span.ReactTags__tag {
+    background: #3B4892;
+    color: white;
+    font-size: 12px;
+    display: inline-block;
+    padding: 5px;
+    padding-inline: 10px;
+    margin: 0;
+    border-radius: 15px;
+    font-family: 'Poppins', sans-serif;
+  }
+  .ReactTags__selected a.ReactTags__remove {
+    color: #aaa;
+    margin-left: 5px;
+    cursor: pointer;
+  }
+  
+  /* Styles for suggestions */
+  .ReactTags__suggestions {
+    position: absolute;
+    border-radius: 15px;
+
+  }
+  .ReactTags__suggestions ul {
+    list-style-type: none;
+    box-shadow: 0.05em 0.01em 0.5em rgba(0, 0, 0, 0.2);
+    background: #3B4892;
+    width: 200px;
+    color: rgb(255, 255, 255, 0.40);
+  }
+  .ReactTags__suggestions li {
+    padding: 5px 10px;
+    margin: 0;
+    
+  }
+  .ReactTags__suggestions li mark {
+    text-decoration: none;
+    background: none;
+    font-weight: 600;
+    color: white;
+  }
+  .ReactTags__suggestions ul li.ReactTags__activeSuggestion {
+    background: #3B489250;
+    cursor: pointer;
+  }
+  
+  .ReactTags__remove {
+    border: none;
+    cursor: pointer;
+    background: none;
+    color: white;
+  }
