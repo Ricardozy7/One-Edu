@@ -6,25 +6,32 @@ Porjeto voltado para professores e alunos em geral
 
 ### Tela de Login
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/login.png" alt="image login"  width="720" height="480"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/login.png" alt="image login"  width="640" height="380"/>
 </p>
 * Login pode ser realizado atraves do google ou formulário com email e senha.
 
 ### Tela Principal
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/tela%20inicial.png" alt="image login"  width="720" height="480"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/tela%20inicial.png" alt="image login"  width="640" height="380"/>
 </p>
 * Dashboard com todas as ferramentas que você vai poder usufruir.
 
 ### Tela de Exercicios
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/exercicios.png" alt="image login"  width="720" height="480"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/exercicios.png" alt="image login"  width="640" height="380"/>
 </p>
 * Prepare e gerencie suas atividades.
 
+### Editar posição ou tamanho da imagen
+<p align="center">
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/EditarImagen.png" alt="image login"  width="640" height="380"/>
+</p>
+* Edite seu texto ou ajuste suas images da ativida.
+
+
 ### Adicione imagens
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/imagens.png" alt="image login"  width="720" height="480"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/imagens.png" alt="image login"  width="640" height="380"/>
 </p>
 * Adicione suas imagens ou cole um link se prefirir.
 
