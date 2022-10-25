@@ -12,26 +12,32 @@ Porjeto voltado para professores e alunos em geral
 
 ### Tela Principal
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/tela%20inicial.png" alt="image login"  width="640" height="380"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/tela%20inicial.png" alt="image Principal"  width="640" height="380"/>
 </p>
 * Dashboard com todas as ferramentas que você vai poder usufruir.
 
 ### Tela de Exercicios
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/exercicios.png" alt="image login"  width="640" height="380"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/exercicios.png" alt="image Exercicios"  width="640" height="380"/>
 </p>
 * Prepare e gerencie suas atividades.
 
+### Editar Textos
+<p align="center">
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/Editar%20texto.png" alt="image Textos"  width="640" height="380"/>
+</p>
+* Edite se
+
 ### Editar posição ou tamanho da imagen
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/EditarImagen.png" alt="image login"  width="640" height="380"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/EditarImagen.png" alt="image posição ou tamanho da imagen"  width="640" height="380"/>
 </p>
 * Edite seu texto ou ajuste suas images da ativida.
 
 
 ### Adicione imagens
 <p align="center">
-  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/imagens.png" alt="image login"  width="640" height="380"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/imagens.png" alt="image Adicione imagens"  width="640" height="380"/>
 </p>
 * Adicione suas imagens ou cole um link se prefirir.
 
@@ -56,7 +62,7 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 * [React](https://pt-br.reactjs.org/) - O framework JS usado
 * [Material UI](https://mui.com/pt/) - Biblioteca de componentes React 
-* [Sass](https://rometools.github.io/rome/) - linguagem de folhas de estilo react-lottie
+* [Sass](https://rometools.github.io/rome/) - linguagem de folhas de estilo
 * [react Lottie](https://github.com/chenqingspring/react-lottie) - Animações em JSON
 
 
