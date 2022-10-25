@@ -4,10 +4,10 @@ Porjeto voltado para professores e alunos em geral
 
 ## 🚀 Começando
 
-## Tela de Login
+### Tela de Login
 
 <p align="center">
-  <img src="http://some_place.com/image.png](https://github.com/Ricardozy7/One-Edu/tree/main/src/assets/images/GITIMAGES/login.png" width="300px"/>
+  <img src="https://github.com/Ricardozy7/One-Edu/tree/main/src/assets/images/GITIMAGES/login.png" width="300px"/>
 </p>
 
 Login pode ser realizado atraves do google ou formulário com email e senha.
