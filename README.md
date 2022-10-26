@@ -4,7 +4,7 @@ Porjeto voltado para professores e alunos em geral
 
 ## 🚀 Começando
 
-### Tela de Login
+### Tela de Login (email: email@email.com.br, senha: 123456)
 <p align="center">
   <img src="https://github.com/Ricardozy7/One-Edu/blob/main/public/images/GITIMAGES/login.png" alt="image login"  width="640" height="380"/>
 </p>
